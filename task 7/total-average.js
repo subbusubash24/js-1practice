@@ -1,0 +1,10 @@
+let a=5;
+let b=8;
+let c=9;
+let d=5;
+let e=10;
+let sum=a+b+c+d+e;
+let value=5;
+average=sum/value;
+console.log(sum);
+console.log(average);
