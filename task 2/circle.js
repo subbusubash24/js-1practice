@@ -1,3 +1,4 @@
 let r=6;
-let c=3.14*r*r;
+const pi=3.14;
+let c=pi*r*r;
 console.log(c);

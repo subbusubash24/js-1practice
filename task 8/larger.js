@@ -1,10 +1,14 @@
-let a=15;
-let b=25;
-if(a>b)
+let a=prompt("enter the number");
+let b=prompt("enter the number");
+if(a==b)
 {
-    console.log(" a is greater");
+    console.log(" a is equal to b");
 }
-else
+else if(a>b)
 {
-    console.log(" b is greater");
+    console.log(" a is larger");
+}
+else 
+{
+console.log("b is larger");
 }

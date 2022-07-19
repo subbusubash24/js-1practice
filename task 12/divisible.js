@@ -1,5 +1,5 @@
-let a=21;
-if(a/5==0)
+let a=prompt("enter the number");
+if(a%5==0)
 {
     console.log("a is divisible by 5")
 }

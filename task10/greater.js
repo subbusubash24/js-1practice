@@ -1,5 +1,5 @@
-let a=17;
-if(a>15)
+let a=prompt("enter the number");
+if(a>10)
     {
         console.log("a is greater than 10")
     }

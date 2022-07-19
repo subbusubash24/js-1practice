@@ -1,5 +1,5 @@
-let a=24;
-if(a/2)
+let a=prompt("enter the number");
+if(a%2==0)
 {
     console.log("a is even")
 }

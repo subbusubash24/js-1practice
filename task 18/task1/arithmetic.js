@@ -1,5 +1,5 @@
-let a=20;
-let b=40;
+let a=prompt("enter the number");
+let b=prompt("enter the number");
 let c=(a+b);
 let d=(a-b);
 let e=(a*b);

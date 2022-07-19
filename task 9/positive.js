@@ -1,4 +1,4 @@
-let a=5;
+let a=prompt("enter the number");
 if(a>0)
 {
     console.log("a is positive");
